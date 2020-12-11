@@ -1,4 +1,4 @@
-__auteurs__ = "TOURE Almamy Moustapha, OUX Philippe"
+__auteurs__ = "TOURE Almamy Moustapha, OUPRAXAY Philippe"
 # initialisation
 
 
